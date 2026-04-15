@@ -1,0 +1,102 @@
+:root {
+  --ifm-color-primary: #b68b3c;
+  --ifm-color-primary-dark: #a67e36;
+  --ifm-color-primary-darker: #9b7633;
+  --ifm-color-primary-darkest: #7f6029;
+  --ifm-color-primary-light: #c39a4a;
+  --ifm-color-primary-lighter: #cca558;
+  --ifm-color-primary-lightest: #dbc080;
+  --ifm-background-color: #0b1020;
+  --ifm-background-surface-color: #121a2c;
+  --ifm-navbar-background-color: rgba(11,16,32,0.9);
+  --ifm-font-color-base: #e5e7eb;
+  --ifm-heading-color: #f8fafc;
+  --ifm-link-color: #d8b56d;
+  --ifm-code-font-size: 95%;
+  --ifm-footer-background-color: #08101d;
+  --ifm-card-background-color: #121a2c;
+  --ifm-global-radius: 18px;
+}
+
+html[data-theme='light'] {
+  --ifm-background-color: #f8fafc;
+  --ifm-background-surface-color: #ffffff;
+  --ifm-navbar-background-color: rgba(255,255,255,0.9);
+  --ifm-font-color-base: #1f2937;
+  --ifm-heading-color: #0f172a;
+  --ifm-card-background-color: #ffffff;
+}
+
+.navbar {
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+.hero--primary.lynxHero {
+  background:
+    radial-gradient(circle at top right, rgba(182,139,60,0.22), transparent 32%),
+    linear-gradient(135deg, #0b1020 0%, #101b31 45%, #0b1020 100%);
+  color: white;
+  padding: 5rem 0 4rem;
+}
+
+.lynxEyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: #d8b56d;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+}
+
+.lynxTitle {
+  font-size: clamp(2.6rem, 6vw, 4.5rem);
+  line-height: 1.05;
+  max-width: 12ch;
+  margin-bottom: 1rem;
+}
+
+.lynxSubtitle {
+  max-width: 760px;
+  font-size: 1.1rem;
+  color: rgba(255,255,255,0.86);
+}
+
+.lynxActions {
+  display: flex;
+  gap: 0.9rem;
+  flex-wrap: wrap;
+  margin-top: 1.5rem;
+}
+
+.lynxCard {
+  display: block;
+  height: 100%;
+  border: 1px solid rgba(216,181,109,0.12);
+  background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+  box-shadow: 0 12px 32px rgba(0,0,0,0.18);
+  text-decoration: none !important;
+}
+
+.lynxCard:hover {
+  transform: translateY(-2px);
+  transition: transform 160ms ease;
+  border-color: rgba(216,181,109,0.32);
+}
+
+.lynxModuleTag {
+  color: var(--ifm-color-primary-lightest);
+  text-transform: uppercase;
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
+  margin-bottom: 0.7rem;
+  font-weight: 700;
+}
+
+.theme-doc-markdown header h1 {
+  font-size: 2.35rem;
+}
+
+.theme-doc-markdown table {
+  display: table;
+  width: 100%;
+}
