@@ -1,0 +1,26 @@
+{
+  "id": "module-2/follow-up-boss",
+  "title": "2.1 Follow Up Boss",
+  "description": "Follow Up Boss is your command centre. Every lead, every conversation, every follow-up lives here. If it isn't in FUB, it didn't happen. Master this before anything else in Module 2.",
+  "source": "@site/docs/module-2/follow-up-boss.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/follow-up-boss",
+  "permalink": "/LYNX-Onboarding-Setup/docs/module-2/follow-up-boss",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "follow-up-boss",
+    "title": "2.1 Follow Up Boss"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "1.5 Team Expectations & Culture",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-1/team-expectations-culture"
+  },
+  "next": {
+    "title": "2.2 MLS & ShowingTime",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-2/mls-showingtime"
+  }
+}

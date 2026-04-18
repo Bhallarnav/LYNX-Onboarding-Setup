@@ -1,0 +1,28 @@
+{
+  "id": "module-3/inbound-lead-call",
+  "title": "3.1 — The Inbound Buyer Lead Call",
+  "description": "📞 This is the highest-leverage conversation in real estate. You have one shot to turn a stranger into an appointment. Everything else in Module 3 depends on getting this right first. Read this section before you take a single lead call — then keep the script beside you for your first 90 days.",
+  "source": "@site/docs/module-3/inbound-lead-call.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/inbound-lead-call",
+  "permalink": "/LYNX-Onboarding-Setup/docs/module-3/inbound-lead-call",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "inbound-lead-call",
+    "title": "3.1 — The Inbound Buyer Lead Call",
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "2.5 Digital Documents & E-Signatures",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-2/digital-documents-esignatures"
+  },
+  "next": {
+    "title": "3.2 The Buyer Consultation",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-3/buyer-consultation"
+  }
+}

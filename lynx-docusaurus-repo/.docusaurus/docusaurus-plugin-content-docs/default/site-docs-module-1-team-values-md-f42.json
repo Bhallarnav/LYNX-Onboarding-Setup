@@ -1,0 +1,26 @@
+{
+  "id": "module-1/team-values",
+  "title": "1.1 Our Team & What We Stand For",
+  "description": "Who we are",
+  "source": "@site/docs/module-1/team-values.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/team-values",
+  "permalink": "/LYNX-Onboarding-Setup/docs/module-1/team-values",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "team-values",
+    "title": "1.1 Our Team & What We Stand For"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Welcome to LYNX",
+    "permalink": "/LYNX-Onboarding-Setup/docs/intro"
+  },
+  "next": {
+    "title": "1.2 Team Structure & Who to Ask",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-1/team-structure"
+  }
+}

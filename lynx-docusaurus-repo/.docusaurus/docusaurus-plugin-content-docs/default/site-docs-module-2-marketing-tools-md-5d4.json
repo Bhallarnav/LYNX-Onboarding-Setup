@@ -1,0 +1,26 @@
+{
+  "id": "module-2/marketing-tools",
+  "title": "2.3 Marketing Tools",
+  "description": "Your marketing is your brand. Every post, every graphic, every piece of content you put out represents you and Lynx. Done well, it builds trust before a client ever meets you. Done poorly, it costs you deals you'll never know you lost.",
+  "source": "@site/docs/module-2/marketing-tools.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/marketing-tools",
+  "permalink": "/LYNX-Onboarding-Setup/docs/module-2/marketing-tools",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "marketing-tools",
+    "title": "2.3 Marketing Tools"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "2.2 MLS & ShowingTime",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-2/mls-showingtime"
+  },
+  "next": {
+    "title": "2.4 Team Communication",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-2/team-communication"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "module-4/listing-launch",
+  "title": "4.3 Listing Launch",
+  "description": "Going live on MLS is a moment you only get once with each listing. The first 72 hours drive more traffic — and more offers — than any other point in the listing lifecycle. Get the launch right.",
+  "source": "@site/docs/module-4/listing-launch.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/listing-launch",
+  "permalink": "/LYNX-Onboarding-Setup/docs/module-4/listing-launch",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "listing-launch",
+    "title": "4.3 Listing Launch"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "4.2 The Listing Appointment",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-4/listing-appointment"
+  },
+  "next": {
+    "title": "4.4 Offers & Negotiation on the Listing Side",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-4/offers-negotiation-listing-side"
+  }
+}

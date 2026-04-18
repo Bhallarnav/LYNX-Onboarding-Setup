@@ -1,0 +1,26 @@
+{
+  "id": "module-2/digital-documents-esignatures",
+  "title": "2.5 Digital Documents & E-Signatures",
+  "description": "📄 Every offer, listing agreement, and representation agreement you touch will be handled digitally. Knowing how to send, track, and organize documents properly is not optional — a missed signature or a misfiled document can delay or kill a deal.",
+  "source": "@site/docs/module-2/digital-documents-esignatures.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/digital-documents-esignatures",
+  "permalink": "/LYNX-Onboarding-Setup/docs/module-2/digital-documents-esignatures",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "digital-documents-esignatures",
+    "title": "2.5 Digital Documents & E-Signatures"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "2.4 Team Communication",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-2/team-communication"
+  },
+  "next": {
+    "title": "3.1 — The Inbound Buyer Lead Call",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-3/inbound-lead-call"
+  }
+}

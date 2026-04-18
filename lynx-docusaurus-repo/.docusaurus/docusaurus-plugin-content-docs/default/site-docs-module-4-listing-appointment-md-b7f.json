@@ -1,0 +1,26 @@
+{
+  "id": "module-4/listing-appointment",
+  "title": "4.2 The Listing Appointment",
+  "description": "A listing appointment is a structured conversation, not a presentation. The agents who win listings consistently aren't the ones who talk the most — they're the ones who listen first, then lead with confidence.",
+  "source": "@site/docs/module-4/listing-appointment.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/listing-appointment",
+  "permalink": "/LYNX-Onboarding-Setup/docs/module-4/listing-appointment",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "listing-appointment",
+    "title": "4.2 The Listing Appointment"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "4.1 Pre-Listing Prep",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-4/pre-listing-prep"
+  },
+  "next": {
+    "title": "4.3 Listing Launch",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-4/listing-launch"
+  }
+}

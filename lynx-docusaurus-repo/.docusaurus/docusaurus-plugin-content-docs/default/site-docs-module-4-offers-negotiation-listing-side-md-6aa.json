@@ -1,0 +1,26 @@
+{
+  "id": "module-4/offers-negotiation-listing-side",
+  "title": "4.4 Offers & Negotiation on the Listing Side",
+  "description": "An offer on the table is the moment everything you've done as a listing agent gets tested. How you handle the next few hours determines whether your seller walks away feeling like they got the best possible outcome — or not.",
+  "source": "@site/docs/module-4/offers-negotiation-listing-side.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/offers-negotiation-listing-side",
+  "permalink": "/LYNX-Onboarding-Setup/docs/module-4/offers-negotiation-listing-side",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "offers-negotiation-listing-side",
+    "title": "4.4 Offers & Negotiation on the Listing Side"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "4.3 Listing Launch",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-4/listing-launch"
+  },
+  "next": {
+    "title": "4.5 Seller Communication Cadence",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-4/seller-communication-cadence"
+  }
+}

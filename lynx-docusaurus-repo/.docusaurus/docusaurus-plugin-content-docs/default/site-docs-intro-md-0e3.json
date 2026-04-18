@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "Welcome to LYNX",
+  "description": "Your onboarding guide to how we operate, win, and grow at LYNX Real Estate Group",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/LYNX-Onboarding-Setup/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro",
+    "title": "Welcome to LYNX",
+    "description": "Your onboarding guide to how we operate, win, and grow at LYNX Real Estate Group"
+  },
+  "sidebar": "docsSidebar",
+  "next": {
+    "title": "1.1 Our Team & What We Stand For",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-1/team-values"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "module-3/offer-to-close",
+  "title": "3.5 Offer to Close",
+  "description": "",
+  "source": "@site/docs/module-3/offer-to-close.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/offer-to-close",
+  "permalink": "/LYNX-Onboarding-Setup/docs/module-3/offer-to-close",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "offer-to-close",
+    "title": "3.5 Offer to Close"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "3.4 Writing & Presenting an Offer",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-3/writing-presenting-offer"
+  },
+  "next": {
+    "title": "4.1 Pre-Listing Prep",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-4/pre-listing-prep"
+  }
+}

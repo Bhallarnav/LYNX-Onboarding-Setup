@@ -1,0 +1,26 @@
+{
+  "id": "module-2/mls-showingtime",
+  "title": "2.2 MLS & ShowingTime",
+  "description": "MLS is where every active listing in Calgary lives. ShowingTime is how you book access to them. You'll use both of these every single day — knowing them well makes you look like a pro in front of clients from day one.",
+  "source": "@site/docs/module-2/mls-showingtime.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/mls-showingtime",
+  "permalink": "/LYNX-Onboarding-Setup/docs/module-2/mls-showingtime",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "mls-showingtime",
+    "title": "2.2 MLS & ShowingTime"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "2.1 Follow Up Boss",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-2/follow-up-boss"
+  },
+  "next": {
+    "title": "2.3 Marketing Tools",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-2/marketing-tools"
+  }
+}

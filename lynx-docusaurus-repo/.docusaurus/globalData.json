@@ -1,0 +1,158 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/LYNX-Onboarding-Setup/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/LYNX-Onboarding-Setup/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/LYNX-Onboarding-Setup/docs/intro",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-1/alberta-licensing",
+              "path": "/LYNX-Onboarding-Setup/docs/module-1/alberta-licensing",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-1/first-30-days",
+              "path": "/LYNX-Onboarding-Setup/docs/module-1/first-30-days",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-1/team-expectations-culture",
+              "path": "/LYNX-Onboarding-Setup/docs/module-1/team-expectations-culture",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-1/team-structure",
+              "path": "/LYNX-Onboarding-Setup/docs/module-1/team-structure",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-1/team-values",
+              "path": "/LYNX-Onboarding-Setup/docs/module-1/team-values",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-2/digital-documents-esignatures",
+              "path": "/LYNX-Onboarding-Setup/docs/module-2/digital-documents-esignatures",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-2/follow-up-boss",
+              "path": "/LYNX-Onboarding-Setup/docs/module-2/follow-up-boss",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-2/marketing-tools",
+              "path": "/LYNX-Onboarding-Setup/docs/module-2/marketing-tools",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-2/mls-showingtime",
+              "path": "/LYNX-Onboarding-Setup/docs/module-2/mls-showingtime",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-2/team-communication",
+              "path": "/LYNX-Onboarding-Setup/docs/module-2/team-communication",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-3/buyer-consultation",
+              "path": "/LYNX-Onboarding-Setup/docs/module-3/buyer-consultation",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-3/inbound-lead-call",
+              "path": "/LYNX-Onboarding-Setup/docs/module-3/inbound-lead-call",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-3/offer-to-close",
+              "path": "/LYNX-Onboarding-Setup/docs/module-3/offer-to-close",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-3/showings",
+              "path": "/LYNX-Onboarding-Setup/docs/module-3/showings",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-3/writing-presenting-offer",
+              "path": "/LYNX-Onboarding-Setup/docs/module-3/writing-presenting-offer",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-4/listing-appointment",
+              "path": "/LYNX-Onboarding-Setup/docs/module-4/listing-appointment",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-4/listing-launch",
+              "path": "/LYNX-Onboarding-Setup/docs/module-4/listing-launch",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-4/offers-negotiation-listing-side",
+              "path": "/LYNX-Onboarding-Setup/docs/module-4/offers-negotiation-listing-side",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-4/pre-listing-prep",
+              "path": "/LYNX-Onboarding-Setup/docs/module-4/pre-listing-prep",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-4/seller-communication-cadence",
+              "path": "/LYNX-Onboarding-Setup/docs/module-4/seller-communication-cadence",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-5/how-leads-work",
+              "path": "/LYNX-Onboarding-Setup/docs/module-5/how-leads-work",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-5/open-houses",
+              "path": "/LYNX-Onboarding-Setup/docs/module-5/open-houses",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-5/reviews-referrals-staying-in-touch",
+              "path": "/LYNX-Onboarding-Setup/docs/module-5/reviews-referrals-staying-in-touch",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-5/scripts-objection-handling",
+              "path": "/LYNX-Onboarding-Setup/docs/module-5/scripts-objection-handling",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "module-5/sphere-of-influence",
+              "path": "/LYNX-Onboarding-Setup/docs/module-5/sphere-of-influence",
+              "sidebar": "docsSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docsSidebar": {
+              "link": {
+                "path": "/LYNX-Onboarding-Setup/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

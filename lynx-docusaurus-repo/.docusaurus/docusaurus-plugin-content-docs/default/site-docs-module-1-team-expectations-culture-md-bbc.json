@@ -1,0 +1,26 @@
+{
+  "id": "module-1/team-expectations-culture",
+  "title": "1.5 Team Expectations & Culture",
+  "description": "This isn't a list of rules to memorize. It's how we operate. The agents who thrive at Lynx aren't just good at real estate — they're good teammates. Read this once, then come back to it if something feels off.",
+  "source": "@site/docs/module-1/team-expectations-culture.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/team-expectations-culture",
+  "permalink": "/LYNX-Onboarding-Setup/docs/module-1/team-expectations-culture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "team-expectations-culture",
+    "title": "1.5 Team Expectations & Culture"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "1.4 Alberta Licensing in Plain English",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-1/alberta-licensing"
+  },
+  "next": {
+    "title": "2.1 Follow Up Boss",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-2/follow-up-boss"
+  }
+}

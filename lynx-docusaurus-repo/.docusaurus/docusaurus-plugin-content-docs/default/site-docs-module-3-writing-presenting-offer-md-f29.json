@@ -1,0 +1,26 @@
+{
+  "id": "module-3/writing-presenting-offer",
+  "title": "3.4 Writing & Presenting an Offer",
+  "description": "",
+  "source": "@site/docs/module-3/writing-presenting-offer.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/writing-presenting-offer",
+  "permalink": "/LYNX-Onboarding-Setup/docs/module-3/writing-presenting-offer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "writing-presenting-offer",
+    "title": "3.4 Writing & Presenting an Offer"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "3.3 Showings",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-3/showings"
+  },
+  "next": {
+    "title": "3.5 Offer to Close",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-3/offer-to-close"
+  }
+}

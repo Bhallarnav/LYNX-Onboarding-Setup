@@ -104,12 +104,14 @@ Every agent on this team has made mistakes. The difference between a fixable mis
 
 ### The standard we hold here
 
-:::note
+What we expect is simple: be honest, be responsive, be coachable, and care deeply about the client experience. Skills can be taught. Character and consistency matter more.
+
+---
+
 ### Module 1 — complete
 
 :::note
 You've finished Module 1. You know who we are, how we operate, who to call, what your first 30 days look like, what Alberta licensing requires of you, and how we expect you to show up.
 
 **Next: Module 2 — Your Tech Stack.** This is where you learn the tools you'll use every single day. Don't skip the videos.
-
 :::

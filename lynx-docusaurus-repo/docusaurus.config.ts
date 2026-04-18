@@ -5,10 +5,11 @@ const config: Config = {
   title: 'LYNX Onboarding',
   tagline: 'A clean, portable onboarding hub for the LYNX Real Estate Group',
   favicon: 'img/lynx-mark.svg',
-  url: 'https://YOUR_GITHUB_USERNAME.github.io',
-  baseUrl: '/lynx-onboarding/',
-  organizationName: 'YOUR_GITHUB_USERNAME',
-  projectName: 'lynx-onboarding',
+  url: 'https://Bhallarnav.github.io',
+  baseUrl: '/LYNX-Onboarding-Setup/',
+  trailingSlash: false,
+  organizationName: 'Bhallarnav',
+  projectName: 'LYNX-Onboarding-Setup',
   deploymentBranch: 'gh-pages',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -45,7 +46,7 @@ const config: Config = {
         {to: '/docs/intro', label: 'Docs', position: 'left'},
         {to: '/docs/module-1/team-values', label: 'Start Here', position: 'left'},
         {
-          href: 'https://github.com/YOUR_GITHUB_USERNAME/lynx-onboarding',
+          href: 'https://github.com/Bhallarnav/LYNX-Onboarding-Setup/tree/main/lynx-docusaurus-repo',
           label: 'GitHub',
           position: 'right',
         },
@@ -64,7 +65,7 @@ const config: Config = {
         {
           title: 'More',
           items: [
-            {label: 'GitHub', href: 'https://github.com/YOUR_GITHUB_USERNAME/lynx-onboarding'},
+            {label: 'GitHub', href: 'https://github.com/Bhallarnav/LYNX-Onboarding-Setup/tree/main/lynx-docusaurus-repo'},
           ],
         },
       ],

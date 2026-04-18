@@ -20,6 +20,7 @@ npm run start
 ## Build for production
 
 ```bash
+$env:GIT_USER="YOUR USER NAME"
 npm run build
 ```
 

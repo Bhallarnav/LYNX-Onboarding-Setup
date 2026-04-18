@@ -12,12 +12,16 @@ Follow Up Boss is your command centre. Every lead, every conversation, every fol
 
 ### Watch first
 
+### Watch first
+
 :::note
+Add your Loom link here — screen walkthrough of Follow Up Boss basics, lead flow, task management, and notes.
+:::
+
 ### How leads arrive
 
 :::note
 Speed to lead is the single most important habit in FUB. A lead that waits 5 minutes is half as likely to pick up. A lead that waits 30 minutes is already talking to someone else.
-
 :::
 
 - Where leads come from

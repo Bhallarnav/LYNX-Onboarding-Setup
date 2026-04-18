@@ -1,0 +1,26 @@
+{
+  "id": "module-2/team-communication",
+  "title": "2.4 Team Communication",
+  "description": "Slack is how the Lynx team operates day to day. Good communication here makes everything run smoother — for you, for your clients, and for the team. Learn how we use it in the first week and it becomes second nature fast.",
+  "source": "@site/docs/module-2/team-communication.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/team-communication",
+  "permalink": "/LYNX-Onboarding-Setup/docs/module-2/team-communication",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "team-communication",
+    "title": "2.4 Team Communication"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "2.3 Marketing Tools",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-2/marketing-tools"
+  },
+  "next": {
+    "title": "2.5 Digital Documents & E-Signatures",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-2/digital-documents-esignatures"
+  }
+}

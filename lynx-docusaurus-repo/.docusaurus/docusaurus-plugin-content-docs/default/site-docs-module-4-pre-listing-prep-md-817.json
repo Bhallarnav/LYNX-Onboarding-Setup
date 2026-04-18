@@ -1,0 +1,26 @@
+{
+  "id": "module-4/pre-listing-prep",
+  "title": "4.1 Pre-Listing Prep",
+  "description": "You win the listing before you walk in the door. The preparation you do in the 24 hours before a seller appointment is what separates an agent who gets hired from one who gets thanked and shown out.",
+  "source": "@site/docs/module-4/pre-listing-prep.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/pre-listing-prep",
+  "permalink": "/LYNX-Onboarding-Setup/docs/module-4/pre-listing-prep",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "pre-listing-prep",
+    "title": "4.1 Pre-Listing Prep"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "3.5 Offer to Close",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-3/offer-to-close"
+  },
+  "next": {
+    "title": "4.2 The Listing Appointment",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-4/listing-appointment"
+  }
+}

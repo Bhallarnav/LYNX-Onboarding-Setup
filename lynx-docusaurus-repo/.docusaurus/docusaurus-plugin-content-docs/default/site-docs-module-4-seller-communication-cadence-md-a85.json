@@ -1,0 +1,26 @@
+{
+  "id": "module-4/seller-communication-cadence",
+  "title": "4.5 Seller Communication Cadence",
+  "description": "📞 The listing agreement is a contract. The communication cadence is the relationship. Sellers who feel informed and respected stay calm, stay rational, and make better decisions. Sellers who feel ignored get anxious, second-guess everything, and blame their agent when things get hard.",
+  "source": "@site/docs/module-4/seller-communication-cadence.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/seller-communication-cadence",
+  "permalink": "/LYNX-Onboarding-Setup/docs/module-4/seller-communication-cadence",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "seller-communication-cadence",
+    "title": "4.5 Seller Communication Cadence"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "4.4 Offers & Negotiation on the Listing Side",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-4/offers-negotiation-listing-side"
+  },
+  "next": {
+    "title": "5.1 How Leads Work on Our Team",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-5/how-leads-work"
+  }
+}

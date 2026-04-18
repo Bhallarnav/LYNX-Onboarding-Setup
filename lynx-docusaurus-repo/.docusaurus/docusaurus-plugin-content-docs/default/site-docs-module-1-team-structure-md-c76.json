@@ -1,0 +1,26 @@
+{
+  "id": "module-1/team-structure",
+  "title": "1.2 Team Structure & Who to Ask",
+  "description": "You will have questions you don't know the answer to. That’s expected and normal. What matters is knowing who to ask — and asking before your client notices you don’t know.",
+  "source": "@site/docs/module-1/team-structure.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/team-structure",
+  "permalink": "/LYNX-Onboarding-Setup/docs/module-1/team-structure",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "team-structure",
+    "title": "1.2 Team Structure & Who to Ask"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "1.1 Our Team & What We Stand For",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-1/team-values"
+  },
+  "next": {
+    "title": "1.3 Your First 30 Days",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-1/first-30-days"
+  }
+}

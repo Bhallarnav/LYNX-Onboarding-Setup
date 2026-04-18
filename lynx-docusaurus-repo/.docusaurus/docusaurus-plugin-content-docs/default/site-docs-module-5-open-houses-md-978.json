@@ -1,0 +1,26 @@
+{
+  "id": "module-5/open-houses",
+  "title": "5.4 Open Houses",
+  "description": "An open house isn't just a favour to the seller. Done right, it's one of the highest-leverage lead generation activities you have. Two hours on a Sunday can change your pipeline for the month.",
+  "source": "@site/docs/module-5/open-houses.md",
+  "sourceDirName": "module-5",
+  "slug": "/module-5/open-houses",
+  "permalink": "/LYNX-Onboarding-Setup/docs/module-5/open-houses",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "open-houses",
+    "title": "5.4 Open Houses"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "5.3 Scripts & Objection Handling",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-5/scripts-objection-handling"
+  },
+  "next": {
+    "title": "5.5 Reviews, Referrals & Staying in Touch",
+    "permalink": "/LYNX-Onboarding-Setup/docs/module-5/reviews-referrals-staying-in-touch"
+  }
+}
