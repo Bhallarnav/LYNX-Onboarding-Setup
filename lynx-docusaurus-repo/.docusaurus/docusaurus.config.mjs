@@ -9,6 +9,7 @@ export default {
   "favicon": "img/lynx-mark.svg",
   "url": "https://Bhallarnav.github.io",
   "baseUrl": "/LYNX-Onboarding-Setup/",
+  "trailingSlash": false,
   "organizationName": "Bhallarnav",
   "projectName": "LYNX-Onboarding-Setup",
   "deploymentBranch": "gh-pages",
