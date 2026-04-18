@@ -83,7 +83,7 @@ Log it in FUB.
 
 Call listing agent immediately.
 
-👉 This is a Mitch situation if unsure.
+👉 This is a Mentor situation if unsure.
 
 </details>
 

@@ -41,7 +41,7 @@ Good internal communication prevents 80% of the problems that derail deals and d
 
 - Discord— what it's for
     
-    Day-to-day team communication, quick questions, tech issues, sharing wins, general updates. Keep it professional but not stiff. Use the right channels — don't DM everything to Mitch or your Mentor when it belongs in a channel.
+    Day-to-day team communication, quick questions, tech issues, sharing wins, general updates. Keep it professional but not stiff. Use the right channels — don't DM everything to your Mentor or your Mentor when it belongs in a channel.
     
 - When Discord isn't enough — pick up the phone
     
@@ -93,11 +93,11 @@ Every agent on this team has made mistakes. The difference between a fixable mis
     
 - What not to do
     
-    Don't hide it. Don't guess your way through a fix. Don't tell the client something that isn't true to buy yourself time. These are the things that turn a recoverable situation into a real problem. One honest conversation with Mitch is almost always enough to get things back on track.
+    Don't hide it. Don't guess your way through a fix. Don't tell the client something that isn't true to buy yourself time. These are the things that turn a recoverable situation into a real problem. One honest conversation with your Mentor is almost always enough to get things back on track.
     
 - If a client is upset
     
-    Listen first. Don't get defensive. Don't promise things you can't deliver. Say: *"I hear you — let me look into this right away and get back to you within the hour."* Then call Mitch. Upset clients can become your biggest advocates if you handle the situation with honesty and urgency. Most of the time they just want to feel heard and know someone is on it.
+    Listen first. Don't get defensive. Don't promise things you can't deliver. Say: *"I hear you — let me look into this right away and get back to you within the hour."* Then call your Mentor. Upset clients can become your biggest advocates if you handle the situation with honesty and urgency. Most of the time they just want to feel heard and know someone is on it.
     
 
 ---

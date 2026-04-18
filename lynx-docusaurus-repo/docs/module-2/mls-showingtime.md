@@ -26,7 +26,7 @@ Keep it under 10 minutes. This is the video new agents will rewatch the most in 
 :::note
 CREB is the Calgary Real Estate Board. Your MLS access comes through them.
 
-If you don't have login credentials within your first 48 hours — Slack Kyle immediately. Don't wait.
+If you don't have login credentials within your first 48 hours — E-mail CREB immediately. Don't wait.
 
 :::
 
@@ -34,7 +34,7 @@ If you don't have login credentials within your first 48 hours — Slack Kyle im
     - Set your profile and contact information
     - Bookmark the MLS login page on your phone and desktop
     - Run one test search in an area you know well — get comfortable with the interface
-    - Set up ShowingTime access (linked through MLS — Kyle can help if it doesn't auto-connect)
+    - Set up ShowingTime access (linked through MLS — your Mentor can help if it doesn't auto-connect)
 
 ---
 
@@ -144,7 +144,7 @@ Use it for every showing — never try to arrange access directly with a listing
 - Managing a showing day
     - Confirm all showings the morning of — a quick text to your client with the address list and order
     - Build in 20–30 minutes per property minimum — rushing makes buyers anxious
-    - If a showing gets declined or cancelled last minute — Slack the team, sometimes another agent can help cover or has a workaround
+    - If a showing gets declined or cancelled last minute — Discord the team, sometimes another agent can help cover or has a workaround
     - Always leave properties exactly as you found them — lights off, doors locked, lockbox secured
 - Leaving feedback after showings
     

@@ -102,7 +102,7 @@ This is not weakness. This is professionalism. Clients respect agents who are ho
 | Offer strategy — what to write, how to price | **Mitch / Kyle / Arnav / Chetan** | Call before writing the offer |
 | Showing logistics, booking issues, access problems | **Any peer agent** | Then any mentor if unresolved |
 | How another agent on the team handled something | **Any peer agent** | Then any mentor if unresolved |
-| Marketing — social post review, Canva help | **Mitchell Raymond** | Slack DM with draft |
+| Marketing — social post review, Canva help | **Mitchell Raymond** | Discord DM with draft |
 | You made a mistake and need to fix it fast | **Mitch / Kyle / Arnav / Chetan** | Call — don’t sit on it |
 | RECA or compliance question | **Mitch / Kyle / Arnav / Chetan** | Call — never guess on compliance |
 | Emotional Support | **Leo** | Call then Text and Email then Spam |
@@ -117,6 +117,6 @@ This is not weakness. This is professionalism. Clients respect agents who are ho
 | --- | --- | --- |
 | **1 — Try to resolve it yourself first** | Check this handbook. Check the relevant module. If the answer is here, use it. This builds your competence faster than asking every time. | **Under 5 minutes — look it up** |
 | **2 — Ask a peer agent via Text** | Process questions, “how did you handle this” situations, showing logistics — other agents are the fastest resource for day-to-day operational stuff. Don’t overthink it, just ask. | **Quick question, no urgency** |
-| **3 — Contact Mitch (tech & systems) change** | If your issue is FUB, MLS, Canva, Slack, or any system question, Kyle is your go-to. Slack DM with a clear description of what’s happening and what you’ve already tried. | **Tech and onboarding questions** |
+| **3 — Contact Mitch (tech & systems) change** | If your issue is FUB, MLS, Canva, Discord, or any system question, Kyle is your go-to. Discord DM with a clear description of what’s happening and what you’ve already tried. | **Tech and onboarding questions** |
 | **4 — Call any mentor (contracts, clients, compliance)** | Anything touching a contract, a difficult client, a negotiation decision, or a compliance concern goes straight to Mitchell. Do not guess, do not delay, do not try to figure it out alone. | **Contracts · Clients · Compliance** |
-| **5 — If it’s a crisis, call any Mentor immediately** | Possession day problems, a deal falling apart, a client threatening legal action, or anything you genuinely don’t know how to handle — call, don’t Slack. Speed matters in a crisis. Mitchell would rather get 10 unnecessary calls than have you sit on one real problem. | **Call** |
+| **5 — If it’s a crisis, call any Mentor immediately** | Possession day problems, a deal falling apart, a client threatening legal action, or anything you genuinely don’t know how to handle — call, don’t Discord. Speed matters in a crisis. Mitchell would rather get 10 unnecessary calls than have you sit on one real problem. | **Call** |

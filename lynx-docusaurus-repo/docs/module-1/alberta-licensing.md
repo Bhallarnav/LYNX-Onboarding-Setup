@@ -104,7 +104,7 @@ Disclosure errors are one of the most common ways agents get in trouble with REC
     
 - What to do if it comes up
     
-    Call Mitch immediately. Do not proceed with a dual agency situation on your own as a new agent. This is a situation that requires experience and careful handling. Don't guess, don't improvise.
+    Call your Mentor immediately. Do not proceed with a dual agency situation on your own as a new agent. This is a situation that requires experience and careful handling. Don't guess, don't improvise.
     
 
 ---
@@ -122,7 +122,7 @@ Run through this mentally on every new client relationship:
 
 ☐ Am I acting in my client's best interest — or my own?
 
-☐ Is there anything about this situation I should run by Mitch?
+☐ Is there anything about this situation I should run by your Mentor?
 
 If you can answer yes to the first four and no to the last one — you're good. If you're unsure on any of them — stop and call.
 

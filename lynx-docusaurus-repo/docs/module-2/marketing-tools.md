@@ -28,7 +28,7 @@ You don't need to know graphic design. You need to know where our templates are 
 
 - Getting access
     
-    Mentor will add you to the Lynx Canva team account. Once you're in, all branded templates will be in the Shared folder. If you don't have access within your first week — Slack Mentor. Do not start creating content from a personal Canva account using your own branding.
+    Mentor will add you to the Lynx Canva team account. Once you're in, all branded templates will be in the Shared folder. If you don't have access within your first week — Discord Mentor. Do not start creating content from a personal Canva account using your own branding.
     
 - What's locked vs. what you can change
     
@@ -144,7 +144,7 @@ For your first 30 days — run any post that mentions Lynx, uses our branding, o
 
 - How to get a post approved quickly
     
-    DM Mentor in Slack with the graphic and your planned caption. He'll turn it around fast.
+    DM Mentor in Discord with the graphic and your planned caption. He'll turn it around fast.
     
     After 30 days of posting, once you have the feel for what works and what doesn't — you won't need to check in on every post. Use the first month to calibrate.
     

@@ -33,7 +33,7 @@ title: 2.5 Digital Documents & E-Signatures
 - Amendment to contract — when anything in an accepted offer changes
 - Mutual release — when a deal falls apart and both parties need to formally exit
 
-You won't send all of these in your first month. Know they exist and know where to find blank copies — ask Kyle or your mentor for the template folder location.
+You won't send all of these in your first month. Know they exist and know where to find blank copies — ask your Mentor for the template folder location.
 
 </details>
 
@@ -63,7 +63,7 @@ If anything feels off, stop and call your mentor or Mitch before sending.
 <details>
 <summary><strong>How to send for signature</strong></summary>
 
-Your e-signature platform will be set up by Kyle during your first week. The general process across most platforms:
+Your e-signature platform will be set up by you with your mentor during your first week. The general process across most platforms:
 
 1. Upload the completed document
 2. Add signers — name and email for each party required to sign
@@ -72,7 +72,7 @@ Your e-signature platform will be set up by Kyle during your first week. The gen
 5. Add a personal message in the email — don't send a cold automated email to a client signing a major document
 6. Send and confirm they received it
 
-Ask Kyle for the specific platform walkthrough for the tool Lynx uses.
+Ask you Mentor for the specific platform walkthrough for the tool Lynx uses.
 
 </details>
 
@@ -126,7 +126,7 @@ Be direct. Clients appreciate knowing there's a real deadline.
 <details>
 <summary><strong>What to do if a client can't figure out the e-signature platform</strong></summary>
 
-Walk them through it on the phone. Screen share if needed. Never let a tech issue kill a deal — if the platform isn't working for them, get Kyle involved immediately. There is always a workaround.
+Walk them through it on the phone. Screen share if needed. Never let a tech issue kill a deal — if the platform isn't working for them, get your Mentor involved immediately. There is always a workaround.
 
 </details>
 
@@ -156,7 +156,7 @@ Consistent naming means you can find any document for any client in under 30 sec
 <details>
 <summary><strong>Where completed documents are stored</strong></summary>
 
-Ask Kyle for the exact folder structure Lynx uses. Every brokerage organizes files slightly differently. What matters is that you use the system, not your own, from your very first deal. Don't create a parallel filing system on your personal computer or desktop.
+Ask your Mentor for the exact folder structure Lynx uses. Every brokerage organizes files slightly differently. What matters is that you use the system, not your own, from your very first deal. Don't create a parallel filing system on your personal computer or desktop.
 
 </details>
 
@@ -233,7 +233,7 @@ Void the document immediately in the platform, confirm the correct email with yo
 ## Module 2 — complete
 
 :::tip
-✅ You've finished Module 2. You know how to run FUB, navigate MLS, book showings, use Canva, communicate in Slack, and handle documents properly. These are the tools you'll use every single day — come back to any section whenever you need a refresh.
+✅ You've finished Module 2. You know how to run FUB, navigate MLS, book showings, use Canva, communicate in Discord, and handle documents properly. These are the tools you'll use every single day — come back to any section whenever you need a refresh.
 
 **Next: Module 3 — Working with Buyers.** This is where the real work starts. First call, buyer consultation, showings, offers, and getting to close. Read it before you take your first lead call.
 :::

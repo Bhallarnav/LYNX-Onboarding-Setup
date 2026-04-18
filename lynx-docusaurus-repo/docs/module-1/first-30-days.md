@@ -70,7 +70,7 @@ Goal: First solo activities done, business-building habits started, 30-day revie
 - [ ]  Run your first solo buyer showing — log it in FUB same day
 - [ ]  Run or assist an open house — follow up every contact within 24 hours
 - [ ]  FUB database at 100+ contacts with tasks set on every active lead
-- [ ]  30-day review with Mitch — bring this checklist, fully completed
+- [ ]  30-day review with your Mentor — bring this checklist, fully completed
 
 ---
 
