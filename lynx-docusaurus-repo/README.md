@@ -20,7 +20,6 @@ npm run start
 ## Build for production
 
 ```bash
-$env:GIT_USER="YOUR USER NAME"
 npm run build
 ```
 
@@ -36,6 +35,7 @@ Update these values in `docusaurus.config.ts` first:
 Then deploy:
 
 ```bash
+$env:GIT_USER="YOUR USER NAME"
 npm run deploy
 ```
 
